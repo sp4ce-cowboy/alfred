@@ -14,7 +14,7 @@ Also displays the [Julian day](https://en.wikipedia.org/wiki/Julian_day)
 - Keyword: Type ":" to display the Time
 
 ### Modifications
-To edit the format of time, modify the script filter according to format specifiers for the `date` command.
+To edit the displayed date format, modify the script filter according to format specifiers for the `date` command.
 
 ### Installation
 1. Ensure that you have [Alfred 5](https://www.alfredapp.com/alfred-5-whats-new/) installed
