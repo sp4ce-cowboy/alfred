@@ -1,6 +1,6 @@
 # ShowTime
 
-A straightforward [alfred](https://www.alfredapp.com) workflow that displays the current time.
+A straightforward [Alfred](https://www.alfredapp.com) workflow that displays the current time.
 
 <img width="605" alt="ShowTime" src="https://github.com/sp4ce-cowboy/alfred/assets/19762596/2a0bf1e6-09b4-44cb-8509-d01b0d8e2d97">
 
