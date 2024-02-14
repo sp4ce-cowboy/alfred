@@ -18,6 +18,6 @@ To edit the format of time, modify the script filter according to format specifi
 
 ### Installation
 1. Ensure that you have [Alfred 5](https://www.alfredapp.com/alfred-5-whats-new/) installed
-2. Download the workflow file from the releases page.
+2. Download the workflow file from [here](https://github.com/sp4ce-cowboy/alfred/releases/tag/v1.0)
 3. Install the workflow
                                                                                 
